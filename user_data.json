@@ -1,0 +1,369 @@
+{
+    "1004970995238580324": {
+        "rolls": 10633,
+        "luck": 1.0,
+        "inventory": {
+            "はかうく": 2920,
+            "うくうく": 6007,
+            "golden うくうく": 616,
+            "みず": 390,
+            "hage uku": 230,
+            "golden はかうく": 313,
+            "golden hage uku": 24,
+            "rainbow はかうく": 35,
+            "golden みず": 43,
+            "rainbow みず": 6,
+            "rainbow うくうく": 46,
+            "pro bot": 3
+        },
+        "luck_potions": {},
+        "active_luck_potion_uses": {},
+        "daily_login": {
+            "last_login_date": "2025-08-08",
+            "consecutive_days": 1,
+            "active_boost": {
+                "multiplier": 1.0,
+                "end_time": null
+            }
+        },
+        "admin_boost": {
+            "multiplier": 1.0,
+            "end_time": null
+        }
+    },
+    "950387247985864725": {
+        "rolls": 66536,
+        "luck": 1.0,
+        "inventory": {
+            "golden はかうく": 1856,
+            "うくうく": 37251,
+            "はかうく": 18660,
+            "みず": 2507,
+            "golden うくうく": 3714,
+            "hage uku": 1520,
+            "rainbow うくうく": 368,
+            "rainbow はかうく": 195,
+            "golden hage uku": 145,
+            "golden みず": 257,
+            "pro bot": 18,
+            "rainbow みず": 28,
+            "rainbow hage uku": 14,
+            "golden pro bot": 3
+        },
+        "luck_potions": {},
+        "active_luck_potion_uses": {},
+        "daily_login": {
+            "last_login_date": "2025-08-08",
+            "consecutive_days": 1,
+            "active_boost": {
+                "multiplier": 1.0,
+                "end_time": null
+            }
+        },
+        "admin_boost": {
+            "multiplier": 1.0,
+            "end_time": null
+        }
+    },
+    "974264083853492234": {
+        "rolls": 63305,
+        "luck": 1.0,
+        "inventory": {
+            "はかうく": 17771,
+            "golden はかうく": 1698,
+            "うくうく": 35589,
+            "rainbow うくうく": 368,
+            "rainbow はかうく": 177,
+            "hage uku": 1404,
+            "golden うくうく": 3503,
+            "みず": 2353,
+            "golden みず": 241,
+            "rainbow hage uku": 16,
+            "golden hage uku": 158,
+            "pro bot": 7,
+            "rainbow みず": 19,
+            "ねこぶる": 1
+        },
+        "luck_potions": {
+            "ten_thousand_luck_potion": 10
+        },
+        "active_luck_potion_uses": {},
+        "daily_login": {
+            "last_login_date": "2025-08-08",
+            "consecutive_days": 1,
+            "active_boost": {
+                "multiplier": 1.0,
+                "end_time": null
+            }
+        },
+        "admin_boost": {
+            "multiplier": 1.0,
+            "end_time": null
+        }
+    },
+    "1010170559562252308": {
+        "rolls": 24542,
+        "luck": 1.0,
+        "inventory": {
+            "うくうく": 13804,
+            "はかうく": 6823,
+            "golden うくうく": 1322,
+            "みず": 917,
+            "hage uku": 600,
+            "golden はかうく": 700,
+            "rainbow うくうく": 131,
+            "golden hage uku": 49,
+            "golden みず": 93,
+            "rainbow はかうく": 86,
+            "rainbow hage uku": 4,
+            "じゃうく": 1,
+            "pro bot": 2,
+            "rainbow みず": 9,
+            "golden pro bot": 1
+        },
+        "luck_potions": {},
+        "active_luck_potion_uses": {},
+        "daily_login": {
+            "last_login_date": null,
+            "consecutive_days": 0,
+            "active_boost": {
+                "multiplier": 1.0,
+                "end_time": null
+            }
+        },
+        "admin_boost": {
+            "multiplier": 1.0,
+            "end_time": null
+        }
+    },
+    "1295260894657384491": {
+        "rolls": 6618,
+        "luck": 1.0,
+        "inventory": {
+            "うくうく": 3671,
+            "はかうく": 1882,
+            "golden hage uku": 17,
+            "golden うくうく": 360,
+            "golden はかうく": 178,
+            "みず": 264,
+            "rainbow はかうく": 22,
+            "golden みず": 31,
+            "hage uku": 150,
+            "rainbow うくうく": 39,
+            "rainbow みず": 2,
+            "pro bot": 2
+        },
+        "luck_potions": {},
+        "active_luck_potion_uses": {},
+        "daily_login": {
+            "last_login_date": null,
+            "consecutive_days": 0,
+            "active_boost": {
+                "multiplier": 1.0,
+                "end_time": null
+            }
+        },
+        "admin_boost": {
+            "multiplier": 1.0,
+            "end_time": null
+        }
+    },
+    "997803924281118801": {
+        "rolls": 109387,
+        "luck": 1.0,
+        "inventory": {
+            "はかうく": 30762,
+            "うくうく": 61353,
+            "golden うくうく": 5992,
+            "みず": 4141,
+            "hage uku": 2443,
+            "golden はかうく": 3027,
+            "golden みず": 417,
+            "rainbow はかうく": 286,
+            "rainbow うくうく": 621,
+            "golden hage uku": 256,
+            "pro bot": 22,
+            "rainbow みず": 46,
+            "rainbow hage uku": 19,
+            "ねこぶる": 2
+        },
+        "luck_potions": {},
+        "active_luck_potion_uses": {},
+        "daily_login": {
+            "last_login_date": null,
+            "consecutive_days": 0,
+            "active_boost": {
+                "multiplier": 1.0,
+                "end_time": null
+            }
+        },
+        "admin_boost": {
+            "multiplier": 1.0,
+            "end_time": null
+        }
+    },
+    "867029175542218802": {
+        "rolls": 0,
+        "luck": 1.0,
+        "inventory": {},
+        "luck_potions": {},
+        "active_luck_potion_uses": {},
+        "daily_login": {
+            "last_login_date": null,
+            "consecutive_days": 0,
+            "active_boost": {
+                "multiplier": 1.0,
+                "end_time": null
+            }
+        },
+        "admin_boost": {
+            "multiplier": 1.0,
+            "end_time": null
+        }
+    },
+    "1028580484885782578": {
+        "rolls": 56741,
+        "luck": 1.0,
+        "inventory": {
+            "はかうく": 15918,
+            "うくうく": 31782,
+            "みず": 2159,
+            "golden うくうく": 3222,
+            "rainbow はかうく": 143,
+            "golden はかうく": 1610,
+            "hage uku": 1262,
+            "rainbow うくうく": 274,
+            "golden みず": 200,
+            "rainbow みず": 17,
+            "golden hage uku": 125,
+            "rainbow hage uku": 13,
+            "pro bot": 13,
+            "golden pro bot": 2,
+            "rainbow pro bot": 1
+        },
+        "luck_potions": {},
+        "active_luck_potion_uses": {},
+        "daily_login": {
+            "last_login_date": null,
+            "consecutive_days": 0,
+            "active_boost": {
+                "multiplier": 1.0,
+                "end_time": null
+            }
+        },
+        "admin_boost": {
+            "multiplier": 1.0,
+            "end_time": null
+        }
+    },
+    "1233471885568905248": {
+        "rolls": 21551,
+        "luck": 1.0,
+        "inventory": {
+            "はかうく": 6079,
+            "うくうく": 12051,
+            "みず": 794,
+            "hage uku": 500,
+            "golden うくうく": 1187,
+            "golden はかうく": 626,
+            "golden hage uku": 51,
+            "rainbow うくうく": 110,
+            "rainbow はかうく": 57,
+            "ねこぶる": 1,
+            "pro bot": 10,
+            "golden みず": 77,
+            "rainbow みず": 5,
+            "rainbow hage uku": 3
+        },
+        "luck_potions": {},
+        "active_luck_potion_uses": {},
+        "daily_login": {
+            "last_login_date": "2025-08-09",
+            "consecutive_days": 1,
+            "active_boost": {
+                "multiplier": 1.0,
+                "end_time": null
+            }
+        },
+        "admin_boost": {
+            "multiplier": 1.0,
+            "end_time": null
+        }
+    },
+    "1261219589937954908": {
+        "rolls": 0,
+        "luck": 1.0,
+        "inventory": {},
+        "luck_potions": {},
+        "active_luck_potion_uses": {},
+        "daily_login": {
+            "last_login_date": null,
+            "consecutive_days": 0,
+            "active_boost": {
+                "multiplier": 1.0,
+                "end_time": null
+            }
+        },
+        "admin_boost": {
+            "multiplier": 1.0,
+            "end_time": null
+        }
+    },
+    "372696316985344013": {
+        "rolls": 0,
+        "luck": 1.0,
+        "inventory": {},
+        "luck_potions": {},
+        "active_luck_potion_uses": {},
+        "daily_login": {
+            "last_login_date": null,
+            "consecutive_days": 0,
+            "active_boost": {
+                "multiplier": 1.0,
+                "end_time": null
+            }
+        },
+        "admin_boost": {
+            "multiplier": 1.0,
+            "end_time": null
+        }
+    },
+    "1134737450183442504": {
+        "rolls": 0,
+        "luck": 1.0,
+        "inventory": {},
+        "luck_potions": {},
+        "active_luck_potion_uses": {},
+        "daily_login": {
+            "last_login_date": null,
+            "consecutive_days": 0,
+            "active_boost": {
+                "multiplier": 1.0,
+                "end_time": null
+            }
+        },
+        "admin_boost": {
+            "multiplier": 1.0,
+            "end_time": null
+        }
+    },
+    "964094945155756074": {
+        "rolls": 0,
+        "luck": 1.0,
+        "inventory": {},
+        "luck_potions": {},
+        "active_luck_potion_uses": {},
+        "daily_login": {
+            "last_login_date": null,
+            "consecutive_days": 0,
+            "active_boost": {
+                "multiplier": 1.0,
+                "end_time": null
+            }
+        },
+        "admin_boost": {
+            "multiplier": 1.0,
+            "end_time": null
+        }
+    }
+}
